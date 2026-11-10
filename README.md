@@ -24,7 +24,7 @@ Run `flutter doctor` to check everything is set up.
 With a phone connected over USB debugging, or an Android emulator running:
 
 ```
-git clone https://github.com/patcolyn/NRTracker
+git clone https://github.com/patcolyn/NRTracker.git
 cd NRTracker
 flutter pub get
 flutter run
